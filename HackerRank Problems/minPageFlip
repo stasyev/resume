@@ -1,0 +1,49 @@
+import java.util.Scanner;
+
+/**
+ * Created by oleksandr on 12/21/2016.
+ */
+public class Competition
+{
+    int flips =0;
+
+    public static void main(String[] args) {
+        Scanner in = new Scanner(System.in);
+        int n = in.nextInt();
+        int p = in.nextInt();
+
+
+
+        System.out.println(findMinFlips(n,p)); // groups
+
+
+    }
+
+
+
+   public static int findMinFlips(int totalPages, int p)//combines even with odd pages, representing a book
+    {
+
+      int fromEndToP ;
+      int fromBeginning ;
+       if(totalPages%2==0)
+       {
+            fromEndToP = (totalPages - p)/2;
+            fromBeginning = p/2;
+       }
+       else
+       {
+           //int makePagesEven = totalPages-1;
+            fromEndToP = (totalPages-p)/2;
+            fromBeginning = p/2;
+       }
+       if(fromBeginning<fromEndToP)
+       {
+           return fromBeginning;
+       }
+       else
+       {
+           return fromEndToP;
+       }
+    }
+}
