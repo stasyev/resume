@@ -1,0 +1,47 @@
+import java.util.Scanner;
+
+/**
+ * Created by oleksandr on 12/26/2016.
+ */
+class Calculator
+{
+    public static void main(String[] args)
+    {
+        Scanner scan = new Scanner(System.in);
+
+        int n = scan.nextInt();
+        int p = scan.nextInt();
+
+        try
+        {
+            power(n,p);
+        }
+        catch(InvalidNOrPInput ex1)
+        {
+            System.out.println("n and p should be non-negative");
+        }
+
+    }
+
+  static int power(int n, int p) throws InvalidNOrPInput
+  {
+   int number;
+   if(n<0||p<0)
+   {
+       throw new InvalidNOrPInput();
+   }
+   else
+   {
+       number = (int) Math.pow(n,p);
+   }
+
+      return number;
+  }
+}
+class InvalidNOrPInput extends Exception
+{
+    InvalidNOrPInput()
+    {
+
+    }
+}
