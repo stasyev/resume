@@ -1,0 +1,28 @@
+public class Difference
+{
+    private int[] elements;
+    public int maximumDifference;
+    Difference(int[] elements)
+    {
+        this.elements = elements;
+    }
+    int computeDifference()
+    {
+        int smallNum=elements[0];
+        int bigNum =elements[0];
+        for(int i=1; i<elements.length;i++)
+        {
+            if(elements[i]>bigNum)
+            {
+                bigNum = elements[i];
+            }
+            else if(elements[i]< smallNum)
+            {
+                smallNum = elements[i];
+            }
+        }
+        maximumDifference =bigNum-smallNum;
+
+        return maximumDifference;
+    }
+}
