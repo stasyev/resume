@@ -1,0 +1,65 @@
+import javax.swing.*;
+import java.util.Random;
+
+/**
+ * Created by oleksandr on 9/17/2016.
+ */
+public class ChooseYourOperation
+{
+    public static void main(String[]args)
+    {
+        Random random = new Random();
+        int x = random.nextInt(10)+1;
+        int y = random.nextInt(10)+1;
+
+        WidgetView vw = new WidgetView();
+        JButton submit = new JButton("Press here when you've entered your operation");
+
+
+        JLabel displayNum = new JLabel(x+", "+y);
+        vw.add(displayNum);
+
+
+        JLabel enterOperation = new JLabel("Enter an operation number");
+        vw.add(enterOperation);
+
+
+        JTextField userInput = new JTextField(5);
+        vw.add(userInput);
+        vw.addAndWait(submit);
+
+        //Logic
+        int operation = Integer.parseInt(userInput.getText());
+        if(operation<=10)
+        {
+            int addition = x+y;
+            JLabel result = new JLabel("The result is: "+addition);
+            vw.add(result);
+        }
+        else if (operation%4==0)
+        {
+            int subtraction = y-x;
+            JLabel result = new JLabel("The result is: "+subtraction);
+            vw.add(result);
+        }
+        else if(operation%5==0)
+        {
+            int division = y/x;
+            JLabel result = new JLabel("The result is: "+division);
+            vw.add(result);
+        }
+        else if(operation%2==0) //even operation
+        {
+            float flDivision = (float)y/x;
+            JLabel result = new JLabel("The result is: "+flDivision);
+            vw.add(result);
+        }
+        else
+        {
+            int multiply = x * y;
+            JLabel result = new JLabel("The result is: "+multiply);
+            vw.add(result);
+        }
+
+    }
+}
