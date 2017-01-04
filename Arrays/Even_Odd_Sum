@@ -1,0 +1,35 @@
+import java.util.ArrayList;
+import java.util.Scanner;
+
+
+public class CmndLnProcessing {
+    public static void main(String[] args)
+    {
+        Scanner scan = new Scanner(System.in);
+        System.out.println("What is the size of the array: ");
+        int arSize = scan.nextInt();
+        int[] myList = new int[arSize];
+        int negativeSum =0;
+        int positiveSum =0;
+
+        for (int i = 0; i < myList.length; i++) {
+            myList[i] = scan.nextInt();
+        }
+
+        for(int i =0; i<myList.length;i++)
+        {
+            if(myList[i]%2==0)
+            {
+                positiveSum =positiveSum+ myList[i];// Sum of even numbers.
+            }
+            else
+            {
+                negativeSum =negativeSum+myList[i];// Make a sum of odd numbers.
+            }
+        }
+        int finalSum = positiveSum-negativeSum;
+        System.out.println("The Sum is: "+ finalSum);
+
+
+    }
+}
