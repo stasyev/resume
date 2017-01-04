@@ -1,0 +1,42 @@
+public class FlashCard
+{
+    public static void main(String[] args)
+    {
+        WidgetView vw = new WidgetView();
+
+        Random random = new Random();
+        int numOne = random.nextInt(10);
+        int numTwo = random.nextInt(10);
+        //Question
+        JTextField question = new JTextField(13);
+        question.setText("What is "+numOne+"  times  "+numTwo+ "?");
+        vw.add(question);
+
+        //User input
+        JTextField userInput = new JTextField(5);
+        vw.add(userInput);
+
+
+        //Button
+        JButton submit = new JButton();
+        submit.setText("click after answering");
+        vw.addAndWait(submit);
+
+        //Check if answer is correct
+        int userAnswer = Integer.parseInt(userInput.getText());
+        int realAnswer = numOne * numTwo;
+
+        //Statement checks if answer is correct, creates goodAns label. Otherwise, the label wrongAns is created.
+        if(userAnswer == realAnswer)
+        {
+            JLabel goodAns = new JLabel("That's right. Good job ");
+            vw.add(goodAns);
+        }
+        else
+        {
+            JLabel wrongAns = new JLabel("Sorry,the correct answer is: " + realAnswer);
+            vw.add(wrongAns);
+        }
+
+    }
+}
