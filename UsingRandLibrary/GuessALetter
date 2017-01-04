@@ -1,0 +1,68 @@
+
+import java.util.*;
+
+public class GuessALetter
+{
+    public static void main(String[] args)
+    {
+        int a = 0;
+        Scanner scan = new Scanner(System.in);
+        System.out.println("Guess a letter between a and z");
+       String myLetter = generateRandomLetter(); //generates a random letter
+
+        while(a == 0)
+        {
+
+            System.out.print("Enter your one-letter guess: ");
+            String guess = scan.next();
+            int b = compareTo(guess,myLetter); //Uses compareTo method I created to compare the character generator to user input.
+
+            if(b<0)
+            {
+                System.out.println("Go to the right.");
+            }
+            else if(b > 0)
+            {
+                System.out.println("Go to the left.");
+            }
+            else
+            {
+                System.out.println("You got it.");
+                a = -5;  // Setting a to -5 means it stops the loop since the person guessed the correct letter
+            }
+
+
+        }
+
+    }
+
+    public static String generateRandomLetter()
+    {
+        Random random = new Random(); // Initiating random
+        String alphabet = "abcdefghijklmnopqrstuvwxyz"; // my alphabet
+
+        int x = random.nextInt(26); //making a random number
+        char randomLetter = alphabet.charAt(x); // looking for a character at a random location from 0-25 included.
+
+        return Character.toString(randomLetter); // converts a random character from alphabet to a string
+
+    }
+
+    public static int compareTo(String solution, String guess)
+    {
+        int check;
+        if(solution.compareTo(guess) < 0) //solution is less than guess
+        {
+            check = -1;
+        }
+        else if(solution.compareTo(guess) > 0)// solution is greater than guess
+        {
+            check = 1;
+        }
+        else //solution is equal to guess
+        {
+            check =0;
+        }
+        return check;
+    }
+}
