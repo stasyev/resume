@@ -1,0 +1,66 @@
+import java.util.Arrays;
+import java.util.Random;
+
+
+public class AveragingNumbers {
+    public static void main(String[] args)
+    {
+        double[] array = new double[5];
+        double[] temp = array;
+        Random random = new Random(1);
+        for(int i = 0; i<array.length;i++)
+        {
+            temp[i] = random.nextDouble(); // assign random 0 or to the array
+            System.out.print(temp[i]+" ");
+        }
+        double averageRandom = avg(temp);
+        double averageLoToHi = avg(loToHi(temp));
+        double averageHiToLo = avg(hiToLo(temp));
+
+        System.out.println("Random average: "+averageRandom);
+        System.out.println("Average Low to High: " +averageLoToHi);
+        System.out.println("Average High to Low: "+averageHiToLo);
+
+        if(averageHiToLo == averageLoToHi && averageHiToLo == averageRandom)
+        {
+            System.out.println("The averages are equal.");
+
+        }
+        else
+            System.out.println("Averages are not identical.");
+
+
+
+    }
+    public static double[] loToHi(double[] original)
+    {
+        double[] temp = original;
+        Arrays.sort(temp);
+        return temp;
+    }
+    public static double[] hiToLo(double[] original)// I do not think this is correct
+    {
+        double[] temp = original;
+        double [] inverse = temp;
+        for(int i = temp.length-1; i>0;i--)
+        {
+            for(int j = 0; j<temp.length;j++)
+            {
+                inverse[j] = temp[i];
+            }
+        }
+        return inverse;
+    }
+    public static double avg(double[] original)
+    {
+        double average =0;
+        double sum =0;
+        for(int i = 0; i<original.length;i++)
+        {
+            sum =+ original[i];
+        }
+        average = sum/original.length;
+        return average;
+    }
+}
+
