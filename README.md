@@ -7,3 +7,5 @@ My knowledge as of 12/21/2016, I currently possess basic Java skills which I can
 Some of the basic concepts that I have acquired on my own and enhanced in my structured CS classes, are: Inheritance, Abstraction, Polymorphism, Overriding vs Overloading, Encapsulation, OOP, Data Structures, Exception Handling and Event Driven Programming.
 
 Listed concepts will be posted on GitHub to back up my claims.
+
+Main resources I use to learn the basics of computer science and software engineering are:HackerRank, Bloomberg Codecon, Coursera, Introduction to Algorithms by CLRS and another book by Sedgewick.I use many different resources when a question arises, however; these are the main sources where I learn algorithm design, implementation, Big-O notation and programming languages.
