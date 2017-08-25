@@ -9,3 +9,5 @@ Some of the basic concepts that I have acquired on my own and enhanced in my str
 Listed concepts will be posted on GitHub to back up my claims.
 
 Main resources I use to learn the basics of computer science and software engineering are:HackerRank, Bloomberg Codecon, Coursera, Introduction to Algorithms by CLRS and another book by Sedgewick.I use many different resources when a question arises, however; these are the main sources where I learn algorithm design, implementation, Big-O notation and programming languages.
+
+As of May 2017 I received an offer for a summer internship from Fidelity Investments. I finished it in August and walked away with a lot more diverce experience than I ever expected. I have a lot of work ahead of me, I need to deplete the HackerRank website problem sets, finish bloomberg code con, finish intro. to algorithms by clrs, pie and cracking the coding interview. All of this and much much more to hopefully one day be able to help and solve real world problems.
