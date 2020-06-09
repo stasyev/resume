@@ -17,3 +17,7 @@ In May 2018 I received another offer from Fidelity to work as a Software Enginee
 
 ## Curu Web Developer Intern 2018
 In August I got an email from the CEO of a start up that welcomed me to their technical team. This was an exciting moment for me, until this point the only experience I had was with a big company and I wasn't sure how different the pace would be here. But still I was excited to dive in and learn as much as I possibly could in the 3 months of work. I wasn't wrong, there is a lot I did not know about web development, especially when it comes to Flask. A python framework I have never used before, honestly I didn't even know people use Python for web development, that's how ignorant I was at the time. So with every project I was given, I had to do tons of StackOverflow research and YouTube tutorials to mark my project complete. Sometimes I fell flat on my face and was completely lost, but had to pick myself back up and try again. I couldn't have done it without the CTO's help, Pablo was the best mentor and manager I had the pleasure of working with.
+
+## Fidelity Technical Intern 2019
+
+## Fidelity Technical Intern 2020
