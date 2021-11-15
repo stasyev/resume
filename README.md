@@ -11,15 +11,15 @@ Education:
 
 
 
-## Curu Web Developer Intern 2018
+## Curu Web Developer Intern 2018 Fall
 In August, I got an email from the CEO of a start-up that welcomed me to their technical team. The offer from Curu was an exciting moment for me. Until this point, the only experience I had was with a big finance company, and I wasn't sure how different the pace would be here. But still, I was excited to dive in and learn as much as I possibly could in the three months of work. I wasn't wrong; there is a lot I did not know about web development, especially when it comes to Flask. A python framework I had never used before. Honestly, I didn't even know people use Python for web development. That's how ignorant I was at the time. So with every project, I was given, I had to do tons of StackOverflow research and YouTube tutorials to mark my project complete. Sometimes I fell flat on my face and was utterly lost, but I had to pick myself back up and try again. I couldn't have done it without the CTO's help. Pablo was the best mentor and manager I had the pleasure of working alongside.
 
 
-## Fidelity Technical Intern 2017
-As of May 2017, I received an offer for a summer internship from Fidelity Investments as a Technical Intern. I finished it in August and walked away with a lot more diverse experience than I ever expected. In the beginning, I had to research which monitoring systems would best benefit my team. Afterward, I experimented and saw if these systems would be easy to set up and work with our existing infrastructure. Finally, I had to defend my choice at the end of the internship and explain why the system would be the ideal monitoring solution.  
-## Fidelity Web Dev Technical Intern 2018
+## Fidelity Web Dev Technical Intern 2018 Summer 
 In May 2018, I received another offer from Fidelity to work as a Software Engineering intern. I helped my team with web development tasks throughout the summer, and I was proud to hear that my generic component to be used throughout the project. At the beginning of the internship, I did not know anything about web development. However, now I understand the web development process in the corporate world, and creating websites from scratch does not seem like an arduous job anymore.
 
+## Fidelity Technical Intern 2017
+As of May 2017, I received an offer for a summer internship from Fidelity Investments as a Technical Intern. I finished it in August and walked away with a lot more diverse experience than I ever expected. In the beginning, I had to research which monitoring systems would best benefit my team. Afterward, I experimented and saw if these systems would be easy to set up and work with our existing infrastructure. Finally, I had to defend my choice at the end of the internship and explain why the system would be the ideal monitoring solution.  
 
 Progress
 
