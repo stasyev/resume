@@ -13,12 +13,12 @@
 ## Curu Web Developer Intern 2018
 ## Fidelity Technical Intern 2017
 
-
+- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Fidelity Investments – Mobile Development Intern	May 2019 – August 2019
--Collaborated with another intern to improve the mobile app using Ionic
--Followed Agile methodology to efficiently complete stories
--Researched and implemented new methods of processing data using TypeScript 
+- Collaborated with another intern to improve the mobile app using Ionic
+- Followed Agile methodology to efficiently complete stories
+- Researched and implemented new methods of processing data using TypeScript 
 
 ### Curu – Web Development Intern September 2018 – December 2018
 - Maintained company website with Flask framework
@@ -40,6 +40,7 @@
 - Used Agile methodology and Scrum practices
 
 
+- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 ## Curu Web Developer Intern 2018 Fall
@@ -52,9 +53,12 @@ In May 2018, I received another offer from Fidelity to work as a Software Engine
 ## Fidelity Technical Intern 2017
 As of May 2017, I received an offer for a summer internship from Fidelity Investments as a Technical Intern. I finished it in August and walked away with a lot more diverse experience than I ever expected. In the beginning, I had to research which monitoring systems would best benefit my team. Afterward, I experimented and saw if these systems would be easy to set up and work with our existing infrastructure. Finally, I had to defend my choice at the end of the internship and explain why the system would be the ideal monitoring solution.  
 
+- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 Progress
 
-I am entirely new to software engineering and decided to take on the world of problem-solving. I am intrigued by artificial intelligence, machine learning, website development, and the process of creating software that controls tangible things, aka robotics.
+I am not entirely new to software engineering, working with various types of teams throughout a 4 year span until I graduated from my university and filled a fulltime full stack position. I am intrigued by artificial intelligence, machine learning, website development, and the process of creating software that controls tangible things, aka robotics.
 
 My knowledge as of 12/21/2016, I currently possess basic Java skills, which I can incorporate into different languages if need be.
 Some of the basic concepts that I have acquired on my own and enhanced in my structured CS classes are Inheritance, Abstraction, Polymorphism, Overriding vs. Overloading, Encapsulation, OOP, Data Structures, Exception Handling, and Event-Driven Programming.
