@@ -8,12 +8,12 @@
 - -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Experience
-## Fidelity Full-stack developer 2021
-## Fidelity Technical Intern 2020
-## Fidelity Technical Intern 2019
-## Fidelity Technical Intern 2018 Summer
-## Curu Web Developer Intern 2018 Fall
-## Fidelity Technical Intern 2017
+### Fidelity Full-stack developer 2021
+### Fidelity Technical Intern 2020
+### Fidelity Technical Intern 2019
+### Fidelity Technical Intern 2018 Summer
+### Curu Web Developer Intern 2018 Fall
+### Fidelity Technical Intern 2017
 
 - -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
