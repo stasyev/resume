@@ -21,23 +21,23 @@
 -Researched and implemented new methods of processing data using TypeScript 
 
 ### Curu – Web Development Intern September 2018 – December 2018
--Maintained company website with Flask framework
--Improved web-app security by implementing 2FA in registration
--Enhanced security level during password reset by implementing 2FA
--Successfully developed html pages based on designer wireframes
--Built a responsive web page using flexbox, html, CSS with preprocessing 
+- Maintained company website with Flask framework
+- Improved web-app security by implementing 2FA in registration
+- Enhanced security level during password reset by implementing 2FA
+- Successfully developed html pages based on designer wireframes
+- Built a responsive web page using flexbox, html, CSS with preprocessing 
 
 ### Fidelity Investments – Software Engineering Intern	May 2018 – August 2018
--Generic component pull requests approved to master branch
--Implementation has been included on the company website
--Created a dashboard using Angular 6 and Bootstrap
--Worked with Postman to test API connection	
+- Generic component pull requests approved to master branch
+- Implementation has been included on the company website
+- Created a dashboard using Angular 6 and Bootstrap
+- Worked with Postman to test API connection	
 
 ### Fidelity Investments – Technical Intern	May 2017 – August 2017
--Automated repository downloads with Python
--Added extra features to an existing product using GO Lang
--Set up IT monitoring system 
--Used Agile methodology and Scrum practices
+- Automated repository downloads with Python
+- Added extra features to an existing product using GO Lang
+- Set up IT monitoring system 
+- Used Agile methodology and Scrum practices
 
 
 
