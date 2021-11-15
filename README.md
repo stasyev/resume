@@ -1,4 +1,4 @@
-# Preparing-for-Junior-Dev.-Position
+# Oleksandr Stasyev
 
 ## Education: 
 
@@ -6,7 +6,7 @@
 > ####  Bachelor of Science in Computer Science with a minor in Mathematics
 
 
-
+##Experience
 ## Fidelity Full-stack developer 2021
 ## Fidelity Technical Intern 2020
 ## Fidelity Technical Intern 2019
