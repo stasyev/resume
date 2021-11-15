@@ -5,6 +5,7 @@
 ### University of North Carolina at Charlotte	August 2017 – Jan 2021 
 > ####  Bachelor of Science in Computer Science with a minor in Mathematics
 
+- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Experience
 ## Fidelity Full-stack developer 2021
