@@ -2,8 +2,8 @@
 
 ## Education: 
 
-###University of North Carolina at Charlotte	August 2017 – Jan 2021 
-  ####Bachelor of Science in Computer Science with a minor in Mathematics
+University of North Carolina at Charlotte	August 2017 – Jan 2021 
+  Bachelor of Science in Computer Science with a minor in Mathematics
 
 
 
