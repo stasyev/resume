@@ -1,8 +1,13 @@
 # Preparing-for-Junior-Dev.-Position
-Education: 
+
+## Education: 
+
+###University of North Carolina at Charlotte	August 2017 – Jan 2021 
+  ####Bachelor of Science in Computer Science with a minor in Mathematics
 
 
-##Fidelity Full-stack developer 2021
+
+## Fidelity Full-stack developer 2021
 ## Fidelity Technical Intern 2020
 ## Fidelity Technical Intern 2019
 ## Curu Web Developer Intern 2018
