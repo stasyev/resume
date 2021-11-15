@@ -15,6 +15,32 @@
 
 
 
+### Fidelity Investments – Mobile Development Intern	May 2019 – August 2019
+Collaborated with another intern to improve the mobile app using Ionic
+Followed Agile methodology to efficiently complete stories
+Researched and implemented new methods of processing data using TypeScript 
+
+### Curu – Web Development Intern September 2018 – December 2018
+Maintained company website with Flask framework
+Improved web-app security by implementing 2FA in registration
+Enhanced security level during password reset by implementing 2FA
+Successfully developed html pages based on designer wireframes
+Built a responsive web page using flexbox, html, CSS with preprocessing 
+
+### Fidelity Investments – Software Engineering Intern	May 2018 – August 2018
+Generic component pull requests approved to master branch
+Implementation has been included on the company website
+Created a dashboard using Angular 6 and Bootstrap
+Worked with Postman to test API connection	
+
+### Fidelity Investments – Technical Intern	May 2017 – August 2017
+Automated repository downloads with Python
+Added extra features to an existing product using GO Lang
+Set up IT monitoring system 
+Used Agile methodology and Scrum practices
+
+
+
 
 ## Curu Web Developer Intern 2018 Fall
 In August, I got an email from the CEO of a start-up that welcomed me to their technical team. The offer from Curu was an exciting moment for me. Until this point, the only experience I had was with a big finance company, and I wasn't sure how different the pace would be here. But still, I was excited to dive in and learn as much as I possibly could in the three months of work. I wasn't wrong; there is a lot I did not know about web development, especially when it comes to Flask. A python framework I had never used before. Honestly, I didn't even know people use Python for web development. That's how ignorant I was at the time. So with every project, I was given, I had to do tons of StackOverflow research and YouTube tutorials to mark my project complete. Sometimes I fell flat on my face and was utterly lost, but I had to pick myself back up and try again. I couldn't have done it without the CTO's help. Pablo was the best mentor and manager I had the pleasure of working alongside.
