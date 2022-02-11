@@ -9,14 +9,19 @@
 
 ## Experience
 #### Fidelity Associate Software Engineer 2021 - Current
-### Fidelity Technical Intern 2020 Summer
-### Fidelity Technical Intern 2019 Summer
-### Fidelity Technical Intern 2018 Summer
-### Curu Web Developer Intern 2018 Fall
-### Fidelity Technical Intern 2017 Summer
+#### Fidelity Technical Intern 2020 Summer
+#### Fidelity Technical Intern 2019 Summer
+#### Fidelity Technical Intern 2018 Summer
+#### Curu Web Developer Intern 2018 Fall
+#### Fidelity Technical Intern 2017 Summer
 
 - -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+### Fidelity Investments - Associate Software Engineer January 2021 - February 2022
+- Followed TDD methodology to implement new features
+- Debugged existing codebase to pinpoint incorrect data processing
+- Serviced user data in different database environments with PostgreSQL
+- Created RESTful services with Spring Boot framework
+- Improved existing documentation to alleviate new hire dependence on senior engineers
 ### Fidelity Investments – Mobile Development Intern	May 2019 – August 2019
 - Collaborated with another intern to improve the mobile app using Ionic
 - Followed Agile methodology to efficiently complete stories
