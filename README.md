@@ -9,11 +9,11 @@
 
 ## Experience
 ### Fidelity Associate Software Engineer 2021 - Current
-### Fidelity Technical Intern 2020
-### Fidelity Technical Intern 2019
+### Fidelity Technical Intern 2020 Summer
+### Fidelity Technical Intern 2019 Summer
 ### Fidelity Technical Intern 2018 Summer
 ### Curu Web Developer Intern 2018 Fall
-### Fidelity Technical Intern 2017
+### Fidelity Technical Intern 2017 Summer
 
 - -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
