@@ -63,7 +63,7 @@ Progress
 I am not entirely new to software engineering, working with various types of teams throughout a four-year span until I graduated from my university and filled a full-time full-stack position. I am intrigued by artificial intelligence, machine learning, website development, and the process of creating software that controls tangible things, aka robotics.
 
 My knowledge as of 12/21/2016, I currently possess basic Java skills, which I can incorporate into different languages if need be.
-Some of the basic concepts that I have acquired on my own and enhanced in my structured CS classes are Inheritance, Abstraction, Polymorphism, Overriding vs. Overloading, Encapsulation, OOP, Data Structures, Exception Handling, and Event-Driven Programming.
+Some of the basic concepts that I have acquired on my own and enhanced in my structured CS classes are Inheritance, Abstraction, Polymorphism, Overriding vs. Overloading, Encapsulation, OOP, Data Structures, Exception Handling, and Event-Driven Programming. I have some experience with SOLID principles and TDD as well.
 
 I will post listed concepts on GitHub to back up my claims.
 
