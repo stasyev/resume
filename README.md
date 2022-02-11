@@ -8,7 +8,7 @@
 - -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Experience
-### Fidelity Full-stack developer 2021
+### Fidelity Associate Software Engineer 2021 - Current
 ### Fidelity Technical Intern 2020
 ### Fidelity Technical Intern 2019
 ### Fidelity Technical Intern 2018 Summer
