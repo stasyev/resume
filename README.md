@@ -67,7 +67,7 @@ Some of the basic concepts that I have acquired on my own and enhanced in my str
 
 I will post listed concepts on GitHub to back up my claims.
 
-The primary resources I use to learn the basics of computer science and software engineering are HackerRank, Bloomberg Codecon, Coursera, Introduction to Algorithms by CLRS, and another book by Sedgewick. Of course, I use many different resources when a question arises. However, these are the primary sources where I learn algorithm design, implementation, Big-O notation, and programming languages.
+The primary resources I use to learn the basics of computer science and software engineering are HackerRank, Leetcode, Youtube, Introduction to Algorithms by CLRS, and another book by Sedgewick. Of course, I use many different resources when a question arises. However, these are the primary sources where I learn algorithm design, implementation, Big-O notation, and programming languages.
 
 
 
