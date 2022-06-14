@@ -8,7 +8,7 @@
 - -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Experience
-#### Fidelity Associate Software Engineer 2021 - Current
+#### Fidelity Associate Software Engineer January 2021 - February 2022
 #### Fidelity Technical Intern 2020 Summer
 #### Fidelity Technical Intern 2019 Summer
 #### Fidelity Technical Intern 2018 Summer
