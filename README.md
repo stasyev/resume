@@ -8,6 +8,7 @@
 - -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Experience
+#### United Health Group - Programmer (Contract) - September 2022 - January 2023 
 #### Fidelity Associate Software Engineer January 2021 - February 2022
 #### Fidelity Technical Intern 2020 Summer
 #### Fidelity Technical Intern 2019 Summer
@@ -16,7 +17,13 @@
 #### Fidelity Technical Intern 2017 Summer
 
 - -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### United Health Group - Programmer (Contract) - September 2022 - January 2023 
+### United Health Group - Programmer (Contract) - September 2022 - January 2023
+- Implemented advanced MySQL queries for the purpose of debugging and analysis
+- Improved code coverage with react-testing-library and Jest
+- Integrated an XSS sanitization library
+- Ensured npm and Maven dependencies are patched
+- Serviced data in production database
+- Participated in daily Scrum meetings with a 100% attendance record
 ### Fidelity Investments - Associate Software Engineer January 2021 - February 2022
 - Followed TDD methodology to implement new features
 - Debugged existing codebase to pinpoint incorrect data processing
