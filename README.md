@@ -16,6 +16,7 @@
 #### Fidelity Technical Intern 2017 Summer
 
 - -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### United Health Group - Programmer (Contract) - September 2022 - January 2023 
 ### Fidelity Investments - Associate Software Engineer January 2021 - February 2022
 - Followed TDD methodology to implement new features
 - Debugged existing codebase to pinpoint incorrect data processing
